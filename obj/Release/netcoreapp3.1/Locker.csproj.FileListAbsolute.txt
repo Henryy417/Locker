@@ -1,0 +1,33 @@
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.exe
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.deps.json
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.runtimeconfig.json
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.runtimeconfig.dev.json
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.dll
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.pdb
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.csprojAssemblyReference.cache
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.Form1.resources
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.csproj.GenerateResource.cache
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.AssemblyInfoInputs.cache
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.AssemblyInfo.cs
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.csproj.CoreCompileInputs.cache
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.dll
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.pdb
+C:\Users\hkct_\OneDrive - Ying Wa College\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.genruntimeconfig.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.exe
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.deps.json
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.runtimeconfig.json
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.runtimeconfig.dev.json
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.dll
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Locker.pdb
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\bin\Release\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.csprojAssemblyReference.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.csproj.ResolveComReference.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.Form1.resources
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.csproj.GenerateResource.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.AssemblyInfoInputs.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.AssemblyInfo.cs
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.csproj.CoreCompileInputs.cache
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.dll
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.pdb
+C:\Users\hkct_\Desktop\Visual Studio Works\Locker\obj\Release\netcoreapp3.1\Locker.genruntimeconfig.cache

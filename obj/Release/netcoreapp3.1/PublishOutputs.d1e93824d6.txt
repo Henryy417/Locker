@@ -1,0 +1,6 @@
+C:\Users\hkct_\Desktop\Locker\Locker.exe
+C:\Users\hkct_\Desktop\Locker\Locker.dll
+C:\Users\hkct_\Desktop\Locker\Locker.deps.json
+C:\Users\hkct_\Desktop\Locker\Locker.runtimeconfig.json
+C:\Users\hkct_\Desktop\Locker\Locker.pdb
+C:\Users\hkct_\Desktop\Locker\Interop.IWshRuntimeLibrary.dll
